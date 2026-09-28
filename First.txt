@@ -1,2 +1,2 @@
 echo "Welcome to github"
-echo " Added new feature"
+echo " Added new feature "
